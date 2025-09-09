@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+# network tooling
+*.pkt
+*.pcap
+*.log
+*.zip
+*.gns3
+*.net
+# images/exports
+*.tmp
